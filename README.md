@@ -17,9 +17,9 @@ Coming soon!!!
 - This project is fully compatible with [Unity](http://unity3d.com) Free.
 
 ###Developers
-* > Euler Alvarenga  - Programmer, Sound Engineer
-* > Lindomar Matos   - Programmer, Project Engineer
-* > Tamillys Pantuza - Graphics Artist.
+*  Euler Alvarenga  - Programmer, Sound Engineer
+*  Lindomar Matos   - Programmer, Project Engineer
+*  Tamillys Pantuza - Graphics Artist.
 
 
 ###Copyright
