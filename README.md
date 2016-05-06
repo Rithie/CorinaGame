@@ -8,8 +8,9 @@ This is an old idea of a game that we've been discussing for years. We're using 
 This project is open for contributions. See [this guide](https://guides.github.com/activities/contributing-to-open-source/) on contributing to projects on GitHub.
 
 ## Branches
-* **Master for production **
-* **Develop for development **
+* Master for production
+* Develop for development
+* 
 ###Download
 Coming soon!!!! 
 
