@@ -10,9 +10,9 @@ This project is open for contributions. See [this guide](https://guides.github.c
 ## Branches
 * Master for production
 * Develop for development
-* 
-###Download
-Coming soon!!!! 
+
+### Download
+ Coming soon!!!! 
 
 ###Source Walkthrough
 Coming soon!!!
